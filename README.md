@@ -2,8 +2,6 @@
 <h3 align="center">A Passionate Golang Developer From India</h3>
 <img align="right" alt="Coding" width="500" src="https://i1.wp.com/tennexas.com/wp-content/uploads/2018/10/golang-what.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sreeragvnair" alt="sreeragvnair" /></a> </p>
-
 - 🌱 I’m currently learning **Golang Docker Kubernetes Grpc & Microservices**
 
 - 💬 Ask me about **Golang,Sql Databases,Data Structures ,MongoDB,Docker, Kubernetes,CiCd Github Action**
